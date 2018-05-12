@@ -1,0 +1,43 @@
+_repo: Count-Br-hl_37624
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Soissons, Count de
+    aliases:
+    - Soissons, Guy Jean Raoul Eugène Charles Emmanuel de Savoie-Carignan, Comte de
+    - Soissons, Guy Jean Raoul Eugene Charles Emmanuel de Savoie-Carignan, Comte de
+    - Soissons, Savoie Carignan
+    - Soissons, C. S. de
+    - Soissons, S. C. de (Savoie Carignan)
+    birthdate: 1860
+    gutenberg_agent_id: '38958'
+    url: http://www.gutenberg.org/2009/agents/38958
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kraszewski, Józef Ignacy
+    aliases:
+    - Kraszewksi, Joseph Ignatius
+    - Kraszewski, J. I. (Józef Ignacy)
+    birthdate: 1812
+    deathdate: 1887
+    gutenberg_agent_id: '38953'
+    url: http://www.gutenberg.org/2009/agents/38953
+    wikipedia: http://en.wikipedia.org/wiki/J%C3%B3zef_Ignacy_Kraszewski
+description: ''
+gutenberg_issued: '2011-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37624'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brühl, Heinrich, Graf von, 1700-1763 -- Fiction'
+- !lcsh 'Polish fiction -- Translations into English'
+- !lcc 'PG'
+title: Count Brühl
+url: http://www.gutenberg.org/ebooks/37624
